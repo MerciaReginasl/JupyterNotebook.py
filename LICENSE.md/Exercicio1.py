@@ -31,7 +31,7 @@ import numpy as np
 M2 = np.arange(0,9).reshape((3,3)).T
 print(M2)
 
-#Questão 4
+#Questão 5
 
 import numpy as np
 import matplotlib.pyplot as plt
