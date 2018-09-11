@@ -1,12 +1,17 @@
 #Exercicio 1
 
+#Questão 1
+
 import numpy as np
 M = np.arange(1,16).reshape((3,5)).T
 print(M)
 
+
 import numpy as np
 D = np.array([[2,7,12],[4,9,14]]).reshape((2,3)).T
 print(D)
+
+#Questão 2
 
 import numpy as np
 A = np.arange(10,49)
@@ -20,9 +25,13 @@ import numpy as np
 C = np.arange(0,20)
 print(C)
 
+#Questão 3
+
 import numpy as np
 M2 = np.arange(0,9).reshape((3,3)).T
 print(M2)
+
+#Questão 4
 
 import numpy as np
 import matplotlib.pyplot as plt
